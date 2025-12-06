@@ -1,0 +1,5 @@
+{
+  "name": "SparkleHeart",
+  "description": "A sharable, interactive sparkling heart particle animation. Create a custom message, generate poetic love notes using Gemini AI, and share the magic via a unique link.",
+  "requestFramePermissions": []
+}
